@@ -1,6 +1,6 @@
 ### frp qnap client
 
-使用[QDK]( https://github.com/qnap-dev/QDK) 将[frp_0.20.0_linux_amd64](https://github.com/fatedier/frp/releases/download/v0.20.0/frp_0.20.0_linux_amd64.tar.gz)  简单的打包了一下。
+使用[QDK]( https://github.com/qnap-dev/QDK) 将[frp_0.23.2_linux_amd64](https://github.com/fatedier/frp/releases/)  简单的打包了一下。
 
 ```bash
 # git clone https://github.com/XGFan/frpc-qnap.git
